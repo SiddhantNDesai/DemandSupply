@@ -1,0 +1,5 @@
+{
+  "name": "Seasonal Cluster Allocator",
+  "description": "Upload store sales (NSQ, SOH) to see QoQ/YoY trends, estimate true demand including lost sales from stockouts, and allocate seasonal stock across store clusters.",
+  "requestFramePermissions": []
+}
